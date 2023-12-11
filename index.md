@@ -1,1 +1,1 @@
-https://octodex.github.com/images/yaktocat.png
+<a href="https://octodex.github.com/images/yaktocat.png" />
